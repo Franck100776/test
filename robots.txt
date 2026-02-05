@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /mentions-legales/
+Disallow: /politique-confidentialite/
+Disallow: /politique-cookies/
+
+Sitemap: https://neuhof-architecte.fr/sitemap.xml
